@@ -39,6 +39,7 @@ The repository includes:
 * Data `FINAL_DATASET` in csv format
 * Metadata *-explains the features and label in* `FINAL_DATASET` 
 * Jupyter Notebook
+* A PDF finalized report ***Predicting DC Homicides***
 * MIT License
 * README.md file
 
